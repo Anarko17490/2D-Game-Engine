@@ -1,0 +1,5 @@
+{
+  "name": "React Game Maker",
+  "description": "A browser-based 2D game creation tool inspired by Construct 3. Features a visual event sheet, drag-and-drop editor, and real-time play mode.",
+  "requestFramePermissions": []
+}
